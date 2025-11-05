@@ -8,7 +8,8 @@ gem "jekyll", "~> 4.4.1"
 # gem "minima", "~> 2.5"
 
 # Tema Cayman
-gem "jekyll-theme-cayman", "~> 0.2.0"
+#gem "jekyll-theme-cayman", "~> 0.2.0"
+gem "jekyll-remote-theme"
 
 # --- 🔹 Plugins de Jekyll ---
 group :jekyll_plugins do
